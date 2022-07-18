@@ -1,4 +1,4 @@
 # hello-world
 GitHub tutorials
 
-My name is Bijay Kumar Shah. I'm an engineering graduate from Maharishi Markandeshwar Engineering College.
+My name is Bijay Kumar Shah. I'm master student at IIT Bombay.
